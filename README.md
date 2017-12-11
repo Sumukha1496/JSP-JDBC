@@ -7,10 +7,11 @@ STEPS:
       2. Create a table : Employees 
         -> create table Employees(id int, name varchar(255), age int, salary int);
         
-      3. Include the necessary jar files and JDBC- mysql-connector.
+      3. Include the necessary jar files including JDBC- mysql-connector.
       
       4. As this program uses the database with properties : 
-        -> username : "root" -> password : "" 
+        -> username : "root" 
+        -> password : "" 
         -> host : "localhost" 
       change it according to your requirement.
       
